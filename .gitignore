@@ -1,0 +1,6 @@
+# ignore
+/logs/
+/plugins/*.jar
+/plugins/LunaChat/logs/
+/spigot-*.jar
+/minecraft_server.*.jar
