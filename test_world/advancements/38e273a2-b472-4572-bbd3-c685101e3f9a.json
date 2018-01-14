@@ -79,6 +79,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "magma_cube": "2018-01-13 17:28:07 +0900",
       "zombie": "2017-12-24 21:42:18 +0900"
     },
     "done": false
